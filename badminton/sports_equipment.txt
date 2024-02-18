@@ -1,0 +1,1 @@
+Badminton uses racket, shuttlecock, and net.
